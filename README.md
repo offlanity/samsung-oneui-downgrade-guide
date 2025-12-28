@@ -32,7 +32,23 @@ Flashing or downgrading firmware can cause data loss or permanent damage if done
 
 If you do not understand the risks, **do not continue**.
 
-
+# Table of Contents
+1. [Disclaimer](#disclaimer)
+2. [Guide Overview](#guide)
+   - [Tested Devices](#tested-devices)
+   - [Notes / Limitations](#notes--limitations)
+3. [Back Up Your Data First](#back-up-your-data-first-important)
+4. [Before You Start](#before-you-start)
+   - [Hardware & System Requirements](#hardware--system)
+   - [Device Preparation](#device-preparation)
+   - [Required Software & Files](#required-software--files)
+5. [Setting Up Your PC](#setting-up-your-pc)
+6. [Remove Accounts](#remove-accounts)
+7. [Booting into Download Mode](#booting-into-download-mode)
+8. [Flash Firmware with Odin](#flash-firmware-with-odin)
+9. [Complete the Downgrade](#complete-the-downgrade)
+10. [Notes](#notes)
+11. [Acknowledgements](#acknowledgements)
 
 
 
