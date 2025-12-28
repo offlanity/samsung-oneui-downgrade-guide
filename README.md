@@ -77,7 +77,7 @@ Ensure all requirements below are met **before** continuing.
   - **USB Debugging enabled**
   - **All accounts removed** (especially Google and Samsung)  
   >Failure to do this may lead to **failure** 
-  See: **[Remove Accounts](#3-remove-accounts--very-important-)** for more
+  See: **[Remove Accounts](#3-remove-accounts)** for more
 
 - Required Software & Files
   - **Samsung USB Drivers for Windows**  
@@ -92,7 +92,7 @@ Ensure all requirements below are met **before** continuing.
 ⚠️ **Do not proceed until you have read the [Firmware Guide](firmware.md).** ⚠️ 
 
 
-## 3. Remove Accounts ( Very Important) ⚠️
+## 3. Remove Accounts
 **Ensure all accounts are manually removed before proceeding, failing to do so may trigger security locks or synchronization errors**
  - Open **Settings** and tap **Accounts and backup**.
  - Tap **Manage accounts**
